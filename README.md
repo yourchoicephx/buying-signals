@@ -10,7 +10,7 @@ Buying Signals
 [01 - New Future](https://github.com/yourchoicephx/buying-signals/blob/master/1_New_Future.md)
 
 
-[02 - Hard Road](https://github.com/yourchoicephx/buying-signals/blob/master/2_Hard%20Road)
+[02 - Hard Road](https://github.com/yourchoicephx/buying-signals/blob/master/2_Hard_Road.md)
 
 
 [03 - The Signals](https://github.com/yourchoicephx/buying-signals/blob/master/3_The_Signals.md)
