@@ -16,4 +16,4 @@ Buying Signals
 [03 - The Signals](https://github.com/yourchoicephx/buying-signals/blob/master/3_The_Signals.md)
 
 
-[04 - The Call](https://github.com/yourchoicephx/buying-signals/blob/master/4_The_Call)
+[04 - The Call](https://github.com/yourchoicephx/buying-signals/blob/master/4_The_Call.md)
